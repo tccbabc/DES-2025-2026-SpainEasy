@@ -12,24 +12,26 @@ El objetivo principal del proyecto es facilitar el proceso de adaptación admini
 
 ## 📁 Estructura del repositorio
 
+```text
 DES-2025-2026-SpainEasy/
 ├── Entregable/
-│ ├── practica1/
-│ ├── practica2/
-│ ├── practica3/
-│ └── practica4/
-│ ├── Prototipos/
-│ ├── RecorridoCognitivo_Usuarios/
-│ ├── Informe_evaluacion_SpainEasy.pdf
-│ └── RecorridoCognitivo_Observador_SpainEasy.pdf
+│   ├── practica1/
+│   ├── practica2/
+│   ├── practica3/
+│   └── practica4/
+│       ├── Prototipos/
+│       ├── RecorridoCognitivo_Usuarios/
+│       ├── Informe_evaluacion_SpainEasy.pdf
+│       └── RecorridoCognitivo_Observador_SpainEasy.pdf
 │
 ├── Presentacion/
-│ ├── SpainEasy_2.3_practica1.pptx
-│ ├── SpainEasy_2.3_practica2.pptx
-│ ├── SpainEasy_2.3_practica3.pptx
-│ └── SpainEasy_2.3_practica4.pptx
+│   ├── SpainEasy_2.3_practica1.pptx
+│   ├── SpainEasy_2.3_practica2.pptx
+│   ├── SpainEasy_2.3_practica3.pptx
+│   └── SpainEasy_2.3_practica4.pptx
 │
 └── README.md
+
 
 
 
