@@ -68,7 +68,8 @@ Dentro de la carpeta `practica4` se encuentran los archivos más importantes de 
   https://www.figma.com/proto/Vl9bt6gp3BTLZvF3kLdulm/SpainEasy?node-id=111-2466&p=f&t=30jNwx9mbWh77jHb-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=99%3A1522
 
 - Página web:  
-  (Añadir aquí el enlace)
+  https://corxime.wixsite.com/spaineasy
+  
 
 ---
 
