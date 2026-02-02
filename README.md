@@ -28,7 +28,7 @@ DES-2025-2026-SpainEasy/
 │   ├── SpainEasy_2.3_practica1.pptx
 │   ├── SpainEasy_2.3_practica2.pptx
 │   ├── SpainEasy_2.3_practica3.1.pptx
-│    ├── SpainEasy_2.3_practica3.1.pptx
+│   ├── SpainEasy_2.3_practica3.2.pptx
 │   └── SpainEasy_2.3_practica4.pptx
 │
 └── README.md
